@@ -1,0 +1,42 @@
+a{
+    padding: 15px;
+    text-align: center;
+    display: block;
+    text-decoration: underline;
+}
+
+#link1{
+    background-color: lightgreen;
+    color: red;
+}
+
+.link2{
+    background-color: #444444;
+    color: gold;
+}
+
+#link3{
+    background-color: black;
+    color: white;
+}
+
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
+a:active{
+    background-color: black;
+    color: white;
+}
+
+.formatting-title{
+    background-color: beige;
+    color: green;
+    padding: 10px;
+}
+.listing-title{
+    background-color: #6fa8ad;
+    color: white;
+    padding: 10px;
+}
